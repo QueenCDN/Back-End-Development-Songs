@@ -670,3 +670,9 @@ You can resume the course at this point. You will be asked to create the main Dj
 
 ## Author(s)
 CF
+
+### Changelog
+| DATE | VERSION | CHANGED BY | CHANGED DESCRIPTION |
+|------|---------|------------|---------------------|
+| 2026-10-06 | 0.1 | CF | Initial version created |
+| 2026-10-06 | 0.2 | SH | QA pass with edits |
